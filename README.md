@@ -3,7 +3,7 @@
 ## Presentation
  
  ceci est un prototype de projet en analyse de donnee
-<img src='images/pandas.png'/>
+<img src='imag/pandas.png' width="100px">
  ## : file_folder: Dataset
 
 
